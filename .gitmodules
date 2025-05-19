@@ -1,9 +1,0 @@
-[submodule "api-gateway"]
-	path = api-gateway
-	url = ./api-gateway
-[submodule "frontend"]
-	path = frontend
-	url = ./frontend
-[submodule "microservice-clients"]
-	path = microservice-clients
-	url = ./microservice-clients
